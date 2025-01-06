@@ -20,7 +20,7 @@ AutoCloser 是一個簡單的自動進程管理器，允許用户通過配置文
 3. 導航到項目目錄：
 
     ```bash
-    cd AutoCloser
+    cd auto_closer
     ```
 
 ## 配置
