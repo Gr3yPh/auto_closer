@@ -14,7 +14,7 @@ AutoCloser 是一個簡單的自動進程管理器，允許用户通過配置文
 2. 下載或克隆本項目到您的本地計算機。
 
     ```bash
-    git clone https://github.com/yourusername/AutoCloser.git
+    git clone https://github.com/Gr3yPh/auto_closer.git
     ```
 
 3. 導航到項目目錄：
